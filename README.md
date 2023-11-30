@@ -4,7 +4,7 @@ I am currently in my Core-Curriculum at 42Berlin
 
 - 🔭 I’m currently working on webserv, a small http-server project
 - 🌱 I’m currently learning C and C++
-- 📫 How to reach me: fhassoun on Slach (42Born2Code) or Email: fhassoun@student.42.berlin.de
+- 📫 How to reach me: fhassoun on Slack (42Born2Code) or Email: fhassoun@student.42.berlin.de
 
 ## GitHub Statistics
 [![fhassoun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fhassoun&show_icons=true&theme=radical)](https://github.com/fhassoun?tab=overview)
