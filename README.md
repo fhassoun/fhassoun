@@ -1,10 +1,10 @@
 ### Hi there, i am Feras👋
 
-I am currently in my Core-Curriculum at 42Berlin 
+I have finished my Core-Curriculum at 42Berlin 
 
-- 🔭 I’m currently working on webserv, a small http-server project
-- 🌱 I’m currently learning C and C++
-- 📫 How to reach me: fhassoun on Slack (42Born2Code) or Email: fhassoun@student.42.berlin.de
+- 🔭 I’m currently working as Pedagogical Coordinator at 42Amman
+- 🌱 I’m currently learning python, ansible
+- 📫 How to reach me: @Feras on Slack (42Born2Code) or Email: feras.hassouneh@42amman.com
 
 ## GitHub Statistics
 [![fhassoun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fhassoun&show_icons=true&theme=radical)](https://github.com/fhassoun?tab=overview)
