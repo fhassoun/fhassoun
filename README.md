@@ -2,8 +2,7 @@
 
 I have finished my Core-Curriculum at 42Berlin 
 
-- 🔭 I’m currently working as Pedagogical Coordinator at 42Amman
-- 🌱 I’m currently learning python, ansible
+- 🔭 I’m currently working as Educational & IT Coordinator at 42Amman
 - 📫 How to reach me: @Feras on Slack (42Born2Code) or Email: feras.hassouneh@42amman.com
 
 ## GitHub Statistics
