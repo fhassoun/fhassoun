@@ -3,7 +3,7 @@
 I have finished my Core-Curriculum at 42Berlin 
 
 - 🔭 I’m currently taking a timeout in Shenzhen, China
-- 📫 How to reach me: @fhassoun on Slack (42Born2Code) or Email: feras.hassouneh@gmail.com
+- 📫 How to reach me: @fhassoun on Slack (42BeyondTheCode) or Email: feras.hassouneh@gmail.com
 
 ## GitHub Statistics
 [![fhassoun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fhassoun&show_icons=true&theme=radical)](https://github.com/fhassoun?tab=overview)
