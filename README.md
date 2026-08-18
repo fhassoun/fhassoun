@@ -2,7 +2,7 @@
 
 I have finished my Core-Curriculum at 42Berlin 
 
-- 🔭 I’m currently taking a timeout in Shenzhen, China
+- 🔭 I’m currently working as Pedago & Tech Lead at 42Zurich
 - 📫 How to reach me: @fhassoun on Slack (42BeyondTheCode) or Email: feras.hassouneh@gmail.com
 
 ## GitHub Statistics
